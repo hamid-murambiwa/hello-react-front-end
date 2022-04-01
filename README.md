@@ -19,7 +19,7 @@
 
 ## Link
 
-[back-end](https://github.com/sja-thedude/hello-rails-back-end/tree/feature_api)
+[back-end](https://github.com/hamid-murambiwa/hello-rails-back-end)
 
 ## Setup
 
@@ -112,8 +112,8 @@ $  npx stylelint "**/*.{css,scss}" --fix
 
 This project is build with:
 
-- ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-- ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=ffffff&labelColor=violet)
+- React
+- Redux
 
 ---
 ## Author
