@@ -73,7 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 - heroku login 
 - git remote remove heroku
-- heroku create sja-thedude-api    
+- heroku create hello-react-front-end    
 - git push heroku intgration-tests:main
 - heroku run rails db:migrate 
 - heroku run rails db:seed    
